@@ -1,0 +1,47 @@
+body{
+    background-color: goldenrod;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size-adjust: initial;
+    text-align:center;
+    margin: 0 auto;
+
+}
+h2{
+    text-align: center;
+}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    text-emphasis:bold;
+    margin: 0% auto;
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: left;
+    margin: 0% auto;
+}
+
+h5{
+    font-size: 30px;
+    margin: 0%;
+
+}
+
+h6{
+    font-size: 35px;
+    text-decoration-line: inherit;
+    text-align: center;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+}

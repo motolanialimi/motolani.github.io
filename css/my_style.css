@@ -1,4 +1,4 @@
-#profile_pic {
+#My-profile-pic {
     height: 20%;
     width: 20%;
     float: left;
@@ -32,7 +32,7 @@
 } */
 
 @media (max-width: 992px) {
-    #profile_pic {
+    #My-profile-pic {
         height: 25%;
         width: 25%;
         float: left;
@@ -49,7 +49,7 @@
 }
 
 @media (max-width: 768px) {
-    #profile_pic {
+    #My-profile-pic {
         height: 30%;
         width: 30%;
         float: left;
@@ -58,7 +58,7 @@
 }
 
 @media (max-width: 500px) {
-    #profile_pic {
+    #My-profile-pic {
         height: 35%;
         width: 35%;
         float: left;
@@ -67,7 +67,7 @@
 }
 
 @media (max-width: 450px) {
-    #profile_pic {
+    #My-profile-pic {
         height: 40%;
         width: 40%;
         float: left;
@@ -76,7 +76,7 @@
 }
 
 @media (max-width: 450px) {
-    #profile_pic {
+    #My-profile-pic {
         height: 45%;
         width: 45%;
         float: left;
